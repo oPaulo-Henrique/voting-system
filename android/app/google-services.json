@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "843199646652",
+    "project_id": "voting-system-ifsp",
+    "storage_bucket": "voting-system-ifsp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843199646652:android:e131caf58533f6b678b9b9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMeSPXUi150d5y3OkMFU-yTRA-Qq9bSH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
